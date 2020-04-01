@@ -6,11 +6,17 @@
             "qty": 1,
             "totalBalance": 4.00
         },
-    {
+        {
             "stockID": "AKRO",
             "stockName": "Akero Therapeutics, Inc.",
             "qty": 1,
             "totalBalance": 4.00
+        },
+        {
+            "stockID": "AAPL",
+            "stockName": "Apple, Inc.",
+            "qty": 2,
+            "totalBalance": 300.00
         }
     ],
     "Bonds": [
@@ -20,8 +26,6 @@
             "amount": 2000.00
         }
     ],
-    "Cash": [
-    ],
-    "Other": [
-    ]
+    "Cash": [],
+    "Other": []
 }
