@@ -1,41 +1,117 @@
 {
     "Stocks": [
-        {
-            "stockID": "AMRN",
-            "stockName": "Amarin Corporation plc",
-            "qty": 1,
-            "totalBalance": 7254.19
-        },
-        {
-            "stockID": "AKRO",
-            "stockName": "Akero Therapeutics, Inc.",
-            "qty": 1,
-            "totalBalance": 3652.45
-        },
-        {
-            "stockID": "AAPL",
-            "stockName": "Apple, Inc.",
-            "qty": 2,
-            "totalBalance": 1676.48
+      {
+        "stockID": "AMRN",
+        "stockName": "Amarin Corporation plc",
+        "qty": 1,
+        "totalBalance": 7254.19,
+        "history": {
+            "2020": {
+                "January": 7494.38,
+                "February": 7410.67,
+                "March": 7388.32,
+                "April": 7254.19
+            }
         }
+      },
+      {
+        "stockID": "AKRO",
+        "stockName": "Akero Therapeutics, Inc.",
+        "qty": 1,
+        "totalBalance": 3652.45,
+        "history": {
+            "2020": {
+                "January": 3595.83,
+                "February": 3501.12,
+                "March": 3576.23,
+                "April": 3652.45
+            }
+        }
+      },
+      {
+        "stockID": "AAPL",
+        "stockName": "Apple, Inc.",
+        "qty": 2,
+        "totalBalance": 1676.48,
+        "history": {
+            "2020": {
+                "January": 1857.01,
+                "February": 1797.16,
+                "March": 1704.98,
+                "April": 1676.48
+            }
+        }
+      }, 
+      {
+        "AllStocks": {
+            "2020": {
+                "January": 12947.22,
+                "February": 13414.33,
+                "March": 12788.74,
+                "April": 12583.12
+            }
+        }
+      }
     ],
     "Bonds": [
-        {
-            "source": "U.S. Treasuries",
-            "period": "10yr",
-            "amount": 5692.97
+      {
+        "source": "U.S. Treasuries",
+        "period": "10yr",
+        "amount": 5692.97
+      },
+      {
+        "AllBonds": {
+            "2020": {
+                "January": 5492.60,
+                "February": 5550.32,
+                "March": 5611.68,
+                "April": 5692.97
+            }
         }
+      }
     ],
     "Cash": [
-        {
-            "source": "Liquid Assets",
-            "amount": 9864.34
+      {
+        "source": "Liquid Assets",
+        "amount": 9864.34
+      },
+      {
+        "AllCash": {
+            "2020": {
+                "January": 9811.37,
+                "February": 9807.15,
+                "March": 9826.72,
+                "April": 9864.34
+            }
         }
+      }
     ],
     "Other": [
+      {
+        "source": "Other Assets",
+        "amount": 6424.24
+      },
+      {
+        "AllOther": {
+            "2020": {
+                "January": 6917.52,
+                "February": 6788.02,
+                "March": 6646.22,
+                "April": 6424.24
+            }
+        }
+      }
+    ],
+    "Annuity": [
         {
-            "source": "Other Assets",
-            "amount": 6424.24
+            "source": ""
+        },
+        {
+            "AllAnnuities": {
+                "2020": {
+                    "January":
+                }
+            }
         }
     ]
-}
+  }
