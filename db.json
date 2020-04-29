@@ -6,11 +6,11 @@
         "qty": 1,
         "totalBalance": 7254.19,
         "history": {
-            "2020": {
-                "January": 7494.38,
-                "February": 7410.67,
-                "March": 7388.32,
-                "April": 7254.19
+            "ytd": {
+                "january": 7494.38,
+                "february": 7410.67,
+                "march": 7388.32,
+                "april": 7254.19
             }
         }
       },
@@ -20,11 +20,11 @@
         "qty": 1,
         "totalBalance": 3652.45,
         "history": {
-            "2020": {
-                "January": 3595.83,
-                "February": 3501.12,
-                "March": 3576.23,
-                "April": 3652.45
+            "ytd": {
+                "january": 3595.83,
+                "february": 3501.12,
+                "march": 3576.23,
+                "april": 3652.45
             }
         }
       },
@@ -34,21 +34,21 @@
         "qty": 2,
         "totalBalance": 1676.48,
         "history": {
-            "2020": {
-                "January": 1857.01,
-                "February": 1797.16,
-                "March": 1704.98,
-                "April": 1676.48
+            "ytd": {
+                "january": 1857.01,
+                "february": 1797.16,
+                "march": 1704.98,
+                "april": 1676.48
             }
         }
       }, 
       {
         "AllStocks": {
-            "2020": {
-                "January": 12947.22,
-                "February": 13414.33,
-                "March": 12788.74,
-                "April": 12583.12
+            "ytd": {
+                "january": 12947.22,
+                "february": 13414.33,
+                "march": 12788.74,
+                "april": 12583.12
             }
         }
       }
@@ -61,11 +61,11 @@
       },
       {
         "AllBonds": {
-            "2020": {
-                "January": 5492.60,
-                "February": 5550.32,
-                "March": 5611.68,
-                "April": 5692.97
+            "ytd": {
+                "january": 5492.60,
+                "february": 5550.32,
+                "march": 5611.68,
+                "april": 5692.97
             }
         }
       }
@@ -77,11 +77,11 @@
       },
       {
         "AllCash": {
-            "2020": {
-                "January": 9811.37,
-                "February": 9807.15,
-                "March": 9826.72,
-                "April": 9864.34
+            "ytd": {
+                "january": 9811.37,
+                "february": 9807.15,
+                "march": 9826.72,
+                "april": 9864.34
             }
         }
       }
@@ -93,11 +93,11 @@
       },
       {
         "AllOther": {
-            "2020": {
-                "January": 6917.52,
-                "February": 6788.02,
-                "March": 6646.22,
-                "April": 6424.24
+            "ytd": {
+                "january": 6917.52,
+                "february": 6788.02,
+                "march": 6646.22,
+                "april": 6424.24
             }
         }
       }
