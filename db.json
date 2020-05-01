@@ -1,20 +1,6 @@
 {
     "Stocks": [
       {
-        "stockID": "AMRN",
-        "stockName": "Amarin Corporation plc",
-        "qty": 1,
-        "totalBalance": 7254.19,
-        "history": {
-            "ytd": {
-                "january": 7494.38,
-                "february": 7410.67,
-                "march": 7388.32,
-                "april": 7254.19
-            }
-        }
-      },
-      {
         "stockID": "AKRO",
         "stockName": "Akero Therapeutics, Inc.",
         "qty": 1,
