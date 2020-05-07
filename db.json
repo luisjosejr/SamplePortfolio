@@ -7,10 +7,11 @@
         "totalBalance": 7254.19,
         "history": {
             "ytd": {
-                "january": 7494.38,
-                "february": 7410.67,
-                "march": 7388.32,
-                "april": 7254.19
+                "Jan": 7494.38,
+                "Feb": 7410.67,
+                "Mar": 7388.32,
+                "Apr": 7254.19,
+                "May": 7260.55
             }
         }
       },
@@ -21,10 +22,11 @@
         "totalBalance": 3652.45,
         "history": {
             "ytd": {
-                "january": 3595.83,
-                "february": 3501.12,
-                "march": 3576.23,
-                "april": 3652.45
+                "Jan": 3595.83,
+                "Feb": 3501.12,
+                "Mar": 3576.23,
+                "Apr": 3652.45,
+                "May": 3675.11
             }
         }
       },
@@ -35,20 +37,22 @@
         "totalBalance": 1676.48,
         "history": {
             "ytd": {
-                "january": 1857.01,
-                "february": 1797.16,
-                "march": 1704.98,
-                "april": 1676.48
+                "Jan": 1857.01,
+                "Feb": 1797.16,
+                "Mar": 1704.98,
+                "Apr": 1676.48,
+                "May": 1680.74
             }
         }
       }, 
       {
         "AllStocks": {
             "ytd": {
-                "january": 12947.22,
-                "february": 13414.33,
-                "march": 12788.74,
-                "april": 12583.12
+                "Jan": 12947.22,
+                "Feb": 13414.33,
+                "Mar": 12788.74,
+                "Apr": 12583.12,
+                "May": 12616.40
             }
         }
       }
@@ -57,15 +61,16 @@
       {
         "source": "U.S. Treasuries",
         "period": "10yr",
-        "amount": 5692.97
+        "amount": 5722.22
       },
       {
         "AllBonds": {
             "ytd": {
-                "january": 5492.60,
-                "february": 5550.32,
-                "march": 5611.68,
-                "april": 5692.97
+                "Jan": 5492.60,
+                "Feb": 5550.32,
+                "Mar": 5611.68,
+                "Apr": 5692.97,
+                "May": 5722.22
             }
         }
       }
@@ -73,15 +78,16 @@
     "Cash": [
       {
         "source": "Liquid Assets",
-        "amount": 9864.34
+        "amount": 9912.53
       },
       {
         "AllCash": {
             "ytd": {
-                "january": 9811.37,
-                "february": 9807.15,
-                "march": 9826.72,
-                "april": 9864.34
+                "Jan": 9811.37,
+                "Feb": 9807.15,
+                "Mar": 9826.72,
+                "Apr": 9864.34,
+                "May": 9912.53
             }
         }
       }
@@ -89,15 +95,16 @@
     "Other": [
       {
         "source": "Other Assets",
-        "amount": 6424.24
+        "amount": 6419.78
       },
       {
         "AllOther": {
             "ytd": {
-                "january": 6917.52,
-                "february": 6788.02,
-                "march": 6646.22,
-                "april": 6424.24
+                "Jan": 6917.52,
+                "Feb": 6788.02,
+                "Mar": 6646.22,
+                "Apr": 6424.24,
+                "May": 6419.78
             }
         }
       }
