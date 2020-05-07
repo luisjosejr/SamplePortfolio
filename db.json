@@ -4,7 +4,7 @@
         "stockID": "AMRN",
         "stockName": "Amarin Corporation plc",
         "qty": 1,
-        "totalBalance": 7254.19,
+        "totalBalance": 7260.55,
         "history": {
             "ytd": {
                 "Jan": 7494.38,
@@ -19,7 +19,7 @@
         "stockID": "AKRO",
         "stockName": "Akero Therapeutics, Inc.",
         "qty": 1,
-        "totalBalance": 3652.45,
+        "totalBalance": 3675.11,
         "history": {
             "ytd": {
                 "Jan": 3595.83,
@@ -34,7 +34,7 @@
         "stockID": "AAPL",
         "stockName": "Apple, Inc.",
         "qty": 2,
-        "totalBalance": 1676.48,
+        "totalBalance": 1680.74,
         "history": {
             "ytd": {
                 "Jan": 1857.01,
