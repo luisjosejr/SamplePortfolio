@@ -62,6 +62,15 @@
         "source": "U.S. Treasuries",
         "period": "10yr",
         "amount": 5722.22
+        "history": {
+            "ytd": {
+                "Jan": 5492.60,
+                "Feb": 5550.32,
+                "Mar": 5611.68,
+                "Apr": 5692.97,
+                "May": 5722.22
+            }
+        }
       },
       {
         "AllBonds": {
@@ -79,6 +88,15 @@
       {
         "source": "Liquid Assets",
         "amount": 9912.53
+        "history": {
+            "ytd": {
+                "Jan": 9811.37,
+                "Feb": 9807.15,
+                "Mar": 9826.72,
+                "Apr": 9864.34,
+                "May": 9912.53
+            }
+        }
       },
       {
         "AllCash": {
@@ -96,6 +114,15 @@
       {
         "source": "Other Assets",
         "amount": 6419.78
+        "history": {
+            "ytd": {
+                "Jan": 6917.52,
+                "Feb": 6788.02,
+                "Mar": 6646.22,
+                "Apr": 6424.24,
+                "May": 6419.78
+            }
+        }
       },
       {
         "AllOther": {
