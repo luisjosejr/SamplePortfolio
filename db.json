@@ -61,7 +61,7 @@
       {
         "source": "U.S. Treasuries",
         "period": "10yr",
-        "amount": 5722.22
+        "amount": 5722.22,
         "history": {
             "ytd": {
                 "Jan": 5492.60,
@@ -87,7 +87,7 @@
     "Cash": [
       {
         "source": "Liquid Assets",
-        "amount": 9912.53
+        "amount": 9912.53,
         "history": {
             "ytd": {
                 "Jan": 9811.37,
@@ -113,7 +113,7 @@
     "Other": [
       {
         "source": "Other Assets",
-        "amount": 6419.78
+        "amount": 6419.78,
         "history": {
             "ytd": {
                 "Jan": 6917.52,
