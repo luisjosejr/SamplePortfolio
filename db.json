@@ -84,6 +84,8 @@
         }
       }
     ],
+    "Annuity": [
+    ],
     "Cash": [
       {
         "source": "Liquid Assets",
@@ -135,7 +137,5 @@
             }
         }
       }
-    ],
-    "Annuity": [
     ]
   }
