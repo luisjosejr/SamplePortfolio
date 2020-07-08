@@ -100,49 +100,6 @@
     ],
     "Annuity": [
     ],
-    "Mutual Funds": [
-      {
-        "stockID": "FTRNX",
-        "stockName": "Fidelity Trend Fund",
-        "qty": 1,
-        "totalBalance": 7260.55,
-        "history": {
-            "ytd": {
-                "Jan": 7494.38,
-                "Feb": 7410.67,
-                "Mar": 7388.32,
-                "Apr": 7254.19,
-                "May": 7260.55
-            }
-        }
-      },
-      {
-        "stockID": "TRBCX",
-        "stockName": "T. Rowe Price Blue Chip Growth Fund",
-        "qty": 1,
-        "totalBalance": 3675.11,
-        "history": {
-            "ytd": {
-                "Jan": 3595.83,
-                "Feb": 3501.12,
-                "Mar": 3576.23,
-                "Apr": 3652.45,
-                "May": 3675.11
-            }
-        }
-      }, 
-      {
-        "AllMutualFunds": {
-            "ytd": {
-                "Jan": 12947.22,
-                "Feb": 13414.33,
-                "Mar": 12788.74,
-                "Apr": 12583.12,
-                "May": 12616.40
-            }
-        }
-      }
-    ],
     "Cash": [
       {
         "source": "Money Market Savings",
