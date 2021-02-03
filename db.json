@@ -1,5 +1,4 @@
 {
-    "repID": "ABCD",
     "Annuity": [
         {
             "nickname": "Annuity",
@@ -78,8 +77,6 @@
             }
         }
     ],
-    "Bonds": [],
-    "Cash": [],
     "Other": [
         {
             "nickname": "",
