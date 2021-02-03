@@ -1,181 +1,95 @@
 {
-    "Stocks": [
-      {
-        "stockID": "AMRN",
-        "stockName": "Amarin Corporation plc",
-        "qty": 1,
-        "totalBalance": 7260.55,
-        "history": {
-            "ytd": {
-                "Jan": 7494.38,
-                "Feb": 7410.67,
-                "Mar": 7388.32,
-                "Apr": 7254.19,
-                "May": 7260.55
-            }
-        }
-      },
-      {
-        "stockID": "AKRO",
-        "stockName": "Akero Therapeutics, Inc.",
-        "qty": 1,
-        "totalBalance": 3675.11,
-        "history": {
-            "ytd": {
-                "Jan": 3595.83,
-                "Feb": 3501.12,
-                "Mar": 3576.23,
-                "Apr": 3652.45,
-                "May": 3675.11
-            }
-        }
-      },
-      {
-        "stockID": "AAPL",
-        "stockName": "Apple, Inc.",
-        "qty": 2,
-        "totalBalance": 1680.74,
-        "history": {
-            "ytd": {
-                "Jan": 1857.01,
-                "Feb": 1797.16,
-                "Mar": 1704.98,
-                "Apr": 1676.48,
-                "May": 1680.74
-            }
-        }
-      }, 
-      {
-        "AllStocks": {
-            "ytd": {
-                "Jan": 12947.22,
-                "Feb": 13414.33,
-                "Mar": 12788.74,
-                "Apr": 12583.12,
-                "May": 12616.40
-            }
-        }
-      }
-    ],
-    "Bonds": [
-      {
-        "source": "The Bond Fund of America (Class F-2)",
-        "period": "10yr",
-        "amount": 12535.65,
-        "history": {
-            "ytd": {
-                "Jan": 12154.22,
-                "Feb": 12265.12,
-                "Mar": 12311.54,
-                "Apr": 12478.98,
-                "May": 12535.65
-            }
-        }
-      },
-      {
-        "source": "Morningstar Intermediate-Term Core Bond",
-        "period": "10yr",
-        "amount": 5722.22,
-        "history": {
-            "ytd": {
-                "Jan": 5492.60,
-                "Feb": 5550.32,
-                "Mar": 5611.68,
-                "Apr": 5692.97,
-                "May": 5722.22
-            }
-        }
-      },
-      {
-        "AllBonds": {
-            "ytd": {
-                "Jan": 17646.82,
-                "Feb": 17815.44,
-                "Mar": 17923.22,
-                "Apr": 18171.95,
-                "May": 18257.87
-            }
-        }
-      }
-    ],
+    "repID": "ABCD",
     "Annuity": [
+        {
+            "nickname": "Annuity",
+            "source": "FIXED FUND",
+            "currentBal": 35684.81,
+            "beginningYTDBal": 35642.11,
+            "history": {
+                "ytd": {
+                    "Jan": 35680.68,
+                    "Feb": 35684.81
+                }
+            }
+        },
+        {
+            "nickname": "Annuity",
+            "source": "ODYSSEY 5 YEAR",
+            "currentBal": 184642.30,
+            "beginningYTDBal": 184312.01,
+            "history": {
+                "ytd": {
+                    "Jan": 184602.23,
+                    "Feb": 184642.30
+                }
+            }
+        },
+        {
+            "nickname": "Annuity",
+            "source": "JNL/T. Rowe Price Mid-Cap Gr",
+            "currentBal": 84734.47,
+            "beginningYTDBal": 84260.75,
+            "history": {
+                "ytd": {
+                    "Jan": 84222.52,
+                    "Feb": 84734.47
+                }
+            }
+        }
     ],
-    "Cash": [
-      {
-        "source": "Money Market Savings",
-        "amount": 56205.33,
-        "history": {
-            "ytd": {
-                "Jan": 56221.13,
-                "Feb": 56256.11,
-                "Mar": 56235.85,
-                "Apr": 56197.88,
-                "May": 56205.33
+    "Mutual Funds": [
+        {
+            "nickname": "AICFX",
+            "source": "INVESTMENT COMPANY OFAMERICA CL F1",
+            "currentBal": 25352.19,
+            "beginningYTDBal": 24896.87,
+            "history": {
+                "ytd": {
+                    "Jan": 24700.12,
+                    "Feb": 25352.19
+                }
+            }
+        },
+        {
+            "nickname": "CIBFX",
+            "source": "CAPITALINCOME BUILDERCL F1",
+            "currentBal": 20413.96,
+            "beginningYTDBal": 20243.66,
+            "history": {
+                "ytd": {
+                    "Jan": 20105.49,
+                    "Feb": 20413.96
+                }
             }
         }
-      },
-      {
-        "source": "High Yield Savings",
-        "amount": 9912.53,
-        "history": {
-            "ytd": {
-                "Jan": 9811.37,
-                "Feb": 9807.15,
-                "Mar": 9826.72,
-                "Apr": 9864.34,
-                "May": 9912.53
+    ],
+    "Stock": [
+        {
+            "nickname": "",
+            "source": "GRIFFIN AMERICANHEALTHCARE REIT III INC",
+            "currentBal": 11551.02,
+            "beginningYTDBal": 30150.00,
+            "history": {
+                "ytd": {
+                    "Jan": 11551.02,
+                    "Feb": 11702.95
+                }
             }
         }
-      },
-      {
-        "AllCash": {
-            "ytd": {
-                "Jan": 66032.50,
-                "Feb": 66063.26,
-                "Mar": 66062.57,
-                "Apr": 66062.22,
-                "May": 66117.86
-            }
-        }
-      }
     ],
     "Other": [
-      {
-        "source": "T.Rowe Price Institutional Lrg Cp Gr Fd",
-        "amount": 21825.53,
-        "history": {
-            "ytd": {
-                "Jan": 22145.45,
-                "Feb": 22012.74,
-                "Mar": 21978.65,
-                "Apr": 21917.21,
-                "May": 21825.53
+        {
+            "nickname": "",
+            "source": "Insured Cash Account",
+            "currentBal": 11551.02,
+            "beginningYTDBal": 30150.00,
+            "history": {
+                "ytd": {
+                    "Jan": 72591.21,
+                    "Feb": 72612.14
+                }
             }
         }
-      },
-      {
-        "source": "Fidelity Growth Discovery Fund",
-        "amount": 6419.78,
-        "history": {
-            "ytd": {
-                "Jan": 6917.52,
-                "Feb": 6788.02,
-                "Mar": 6646.22,
-                "Apr": 6424.24,
-                "May": 6419.78
-            }
-        }
-      },
-      {
-        "AllOther": {
-            "ytd": {
-                "Jan": 29062.97,
-                "Feb": 28800.76,
-                "Mar": 28624.87,
-                "Apr": 28341.45,
-                "May": 28245.31
-            }
-        }
-      }
     ]
-  }
+}
